@@ -4,9 +4,18 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_e
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
 
 
+//DATA STRUCTURE
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
 https://javascript.info/weakmap-weakset
 https://javascript.info/garbage-collection
+
+
+
+//FUNCTION
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
